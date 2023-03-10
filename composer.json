@@ -3,6 +3,7 @@
     "type": "library",
     "description": "San Blast SDK For Laravel Framework",
     "homepage": "https://sandevelopment.com/",
+    "license": "MIT",
     "authors": [
         {
             "name": "PT. San Teknologi Asia",
