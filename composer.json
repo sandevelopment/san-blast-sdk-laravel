@@ -1,0 +1,21 @@
+{
+    "name": "sandevelopment/san-blast-sdk-laravel",
+    "type": "library",
+    "description": "San Blast SDK For Laravel Framework",
+    "homepage": "https://sandevelopment.com/",
+    "authors": [
+        {
+            "name": "PT. San Teknologi Asia",
+            "email": "info@sandevelopment.com",
+            "role": "Company"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SanBlast\\": "src"
+        }
+    },
+    "require": {
+        "ixudra/curl": "^6.22"
+    }
+}
